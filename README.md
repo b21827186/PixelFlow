@@ -1,3 +1,3 @@
-PixelFlow by Gambit
+PixelFlow by Misbah Bilgili
 
 Live Version: https://pixelflow-app.netlify.app
